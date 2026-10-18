@@ -1,6 +1,8 @@
+.vscode/
 .venv/
 .env
 seen.json
 token.json
 credentials.json
+seen_ann.json
 __pycache__/
